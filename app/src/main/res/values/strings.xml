@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrainVireTest</string>
+    <string name="login">Login</string>
+    <string name="text_email_address">Enter Email Address</string>
+    <string name="text_password">Enter Password</string>
+    <string name="welcome">Welcome</string>
+</resources>
